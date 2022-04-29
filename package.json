@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Coding along Advanced CSS and Sass: Flexbox, Grid, Animations and More by Jonas Schmedtmann ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "Tutorial",
+    "CSS",
+    "SASS"
+  ],
+  "author": "Andrew Weisbeck",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
