@@ -1,5 +1,5 @@
 {
-  "name": "natours",
+  "name": "natourstutorial",
   "version": "1.0.0",
   "description": "Coding along Advanced CSS and Sass: Flexbox, Grid, Animations and More by Jonas Schmedtmann ",
   "main": "index.js",
@@ -18,5 +18,13 @@
   },
   "dependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeauxWeisbeck4/NatoursTutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeauxWeisbeck4/NatoursTutorial/issues"
+  },
+  "homepage": "https://github.com/GeauxWeisbeck4/NatoursTutorial#readme"
 }
